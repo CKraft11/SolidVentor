@@ -5,12 +5,14 @@ As Inventor was the first CAD software I learned, transitioning to SolidWorks I 
 
 ## Installation
 
-1.
-2. Download and double click the file and follow the prompts. If that doesn't work open SolidWorks and go to ```Tools - Save/Restore Settings``` and restore the file from there.
+1. Close all running SolidWorks instances
+2. Download and double click the file and follow the prompts. If that doesn't work open SolidWorks and go to ```Tools - Save/Restore Settings``` and restore the file from there
 3. Enjoy!
 
 ## Screenshots
-Sketch View
+
+Sketch View:
 ![Sketch View](sketch_view.png?raw=true "Sketch View")
-Features View
+
+Features View:
 ![Features View](features_view.png?raw=true "Features View")
