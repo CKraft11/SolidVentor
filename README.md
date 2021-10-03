@@ -10,5 +10,5 @@ As Inventor was the first CAD software I learned, transitioning to SolidWorks I 
 3. Enjoy!
 
 ## Screenshots
-![Alt text](sketch_view.jpg?raw=true "Sketch View")
-![Alt text](features_view.jpg?raw=true "Features View")
+![Sketch View](sketch_view.jpg?raw=true "Sketch View")
+![Features View](features_view.jpg?raw=true "Features View")
