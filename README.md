@@ -6,7 +6,7 @@ As Inventor was the first CAD software I learned, transitioning to SolidWorks I 
 ## Installation
 
 1. Close all running SolidWorks instances
-2. Download and double click the file and follow the prompts. If that doesn't work open SolidWorks and go to ```Tools - Save/Restore Settings``` and restore the file from there
+2. Download and double click the ```solidventor.sldreg``` file and follow the prompts. If that doesn't work open SolidWorks and go to ```Tools - Save/Restore Settings``` and restore the file from there
 3. Enjoy!
 
 ## Screenshots
