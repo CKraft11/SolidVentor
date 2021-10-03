@@ -16,3 +16,10 @@ Sketch View:
 
 Features View:
 ![Features View](features_view.png?raw=true "Features View")
+
+## Background
+
+As of now I am unsure if the sldreg file can contain images used for the background in SolidWorks so in the mean time here is the image I used. Set the image by going to ```Options - Colors - Background appearance - Image file``` and browse to the image file
+
+Background:
+![Background](solidworks_bg.png?raw=true "Background")
